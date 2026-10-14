@@ -1,0 +1,7 @@
+{
+  "name": "SoundWave - Website Nghe Nhạc Trực Tuyến",
+  "description": "Website nghe nhạc trực tuyến SoundWave phân quyền 3 cấp (Khách vãng lai, Người dùng, Quản trị viên), phát nhạc, tạo playlist, upload bài hát và kiểm duyệt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

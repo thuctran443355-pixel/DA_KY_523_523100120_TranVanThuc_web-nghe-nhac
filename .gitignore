@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+.soundwave-backups/
+backend/database/data/.session-key
+backend/database/data/*.tmp
+client/dist/
+
+backend/database/data/*.backup-*
+backend/database/data/
